@@ -14,7 +14,7 @@ Download the [Installer Package](/downloads/jackoalan/JackoXcodeColourTheme/Jack
 How to install
 --------------
 
-Simply use the [installer PKG](/downloads/jackoalan/JackoXcodeColourTheme/JackoXcodeColourThemeSigned.pkg) attached to this repository to install the files automatically.
+Simply use the [installer PKG](/downloads/jackoalan/JackoXcodeColourTheme/JackoXcodeColourThemeSigned.pkg) attached to this repository to install the files automatically. The package installs only in the user's domain and doesn't require an admin password. Up to two files are added to the filesystem (as shown by Installer's `File > Show Files`).
 
 Alternatively, place the `.dvtcolorscheme` files in `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
 
