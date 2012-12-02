@@ -1,7 +1,7 @@
 Jacko's Xcode Colour Theme
 ==========================
 
-My personal syntax-colouring theme for using Xcode.
+My personal syntax-colouring theme for using Xcode. Consider it in the public domain (with no warranties implied, of course).
 
 Currently untitled, this theme provides a light-on-dark experience for using Xcode with a stateful insight. 
 
